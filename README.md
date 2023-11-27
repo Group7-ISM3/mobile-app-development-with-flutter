@@ -1,1 +1,9 @@
-# mobile-app-development-with-flutter
+GROUP 7
+No. Name                 Registration No.
+1 EUNICE P.NGOYAI             26955/T.2021
+2 WILLIAM E.KAVUMO             27021/T.2021
+3 SHARON R.MATASO              27013/T.2021
+4 MALCOM R.MALIPULA            26985/T.2021
+5 HERIETH P.MWALUKASA          27823/T.2021
+6 RAYMOND D.MNGERERE           27002/T.2021
+7 KUDRA S OMARI                26978/T.2021
