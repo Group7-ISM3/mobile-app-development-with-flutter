@@ -1,3 +1,1 @@
 ASSIGNMENT 2.
-MEMBERS:
-NAMES            REG NO:
