@@ -1,4 +1,4 @@
-ASSIGNMENT 2	# Group 7 - ISM3 
+# Group 7 - ISM3 
 Submission of assignment of allowing to familiarize with programs using dart programing languages.
 Below is a description for each dart program file.
 
