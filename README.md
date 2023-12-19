@@ -2,8 +2,7 @@
 Special repository for submission of group assignment concernig mobile development with flutter
 
 ## Group Members
-Herieth Mwalukasa. 
-
+Herieth Mwalukasa.  
 Eunice Paul.  
 Raymond Mngerere.  
 Sharon Mataso.  
