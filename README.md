@@ -2,16 +2,13 @@
 Special repository for submission of group assignment concernig mobile development with flutter
 
 ## Group Members
-Herieth Mwalukasa.  
-Eunice Paul.  
-Raymond Mngerere.  
-Sharon Mataso.  
-William Kavumo.  
-Malcolm Richard. 
 
 | Name | Registration No |
-| ---------|----------|
-| Herieth Mwalukasa | Row 1, Col 2 |
-| Eunice Paul | Row 2, Col 2 | 
+| Herieth Mwalukasa | 27823/T.2022|
+| Eunice Paul | 26955/T.2021 | 
 | Raymond Mngerere | 27002/T.2021 |
+| Sharon Mataso | 27013/T.2021 |
+| Malcolm Richard | 26985/T.2021 | 
+| William Kavumo| 27021/T.2021 |
+| Kudra Omari | 26978/T.2021 |
 
