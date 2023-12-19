@@ -3,8 +3,9 @@ Special repository for submission of group assignment concernig mobile developme
 
 ## Group Members
 Herieth Mwalukasa. 
-Eunice Paul. 
-Raymond Mngerere. 
-Sharon Mataso. 
-William Kavumo. 
+
+Eunice Paul.  
+Raymond Mngerere.  
+Sharon Mataso.  
+William Kavumo.  
 Malcolm Richard. 
