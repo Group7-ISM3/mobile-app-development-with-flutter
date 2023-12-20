@@ -4,7 +4,7 @@ Special repository for submission of group assignment concernig mobile developme
 ## Group Members
 | Name | Registration No: |
 | ---------|----------|
-| Herieth Mwalukasa | 27823/T.2022|
+| Herieth Mwalukasa | 27823/T.2021|
 | Eunice Paul | 26955/T.2021 | 
 | Raymond Mngerere | 27002/T.2021 |
 | Sharon Mataso | 27013/T.2021 |
